@@ -1,0 +1,12 @@
+streamlit
+pandas
+opencv-python-headless
+numpy
+tensorflow
+time
+sys
+streamlit_embedcode
+github_gist
+urllib.request
+urllib
+moviepy.editor
